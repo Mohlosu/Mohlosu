@@ -4,15 +4,21 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+Soy estudiante de Ingeniería de Sistemas con un fuerte interés en el desarrollo web fullstack. Me apasiona crear aplicaciones web funcionales y atractivas, combinando el diseño creativo con soluciones técnicas sólidas. Tengo experiencia en lenguajes de programación como Java, JavaScript, HTML5 y CSS, y busco crecer en tecnologías modernas para el desarrollo de aplicaciones.
+
+Mis principales intereses incluyen el Diseño Web, el Desarrollo Fullstack y la Experiencia de Usuario (UX/UI).
+🌱 Actualmente estoy aprendiendo:
+
+React.js <br>
+Node.js <br>
+Bases de datos relacionales y no relacionales (SQL, MongoDB) <br><br>
+👯 Estoy interesada en colaborar en proyectos de desarrollo web, especialmente en aquellos que integren frontend y backend de manera eficiente.
+
+✔ Pregúntame sobre HTML, CSS, JavaScript o diseño responsivo; estaré encantada de ayudar y compartir mis conocimientos. 😉<br>
+
+Fuera de la programación, 📚 disfruto explorar nuevas tecnologías, 🎨 diseñar interfaces atractivas, 🎶 escuchar música inspiradora, y 🌳 desconectarme ocasionalmente en la naturaleza para recargar energías.
+
+📫 Puedes contactarme en  el siguiente <a href="mohlosu18@gmail.com">Correo</a>
 ##
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 
